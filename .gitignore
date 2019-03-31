@@ -30,3 +30,4 @@ spland.iml
 .vscode/
 /mvnw
 /mvnw.cmd
+/.mvn/
