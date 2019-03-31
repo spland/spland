@@ -16,7 +16,8 @@ HELP.md
 *.iws
 *.iml
 *.ipr
-
+mvnw
+mvnw.cmd
 spland.iml
 ### NetBeans ###
 /nbproject/private/
